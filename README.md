@@ -44,3 +44,13 @@ The dataset contains **48,620** orders with the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rohithyadav048/pizza-sales-analysis.git
+
+
+### Sales by Category
+![Sales by Category](sales_by_category.png)
+
+### Pizza Size Distribution
+![Pizza Size Distribution](sales_by_size.png)
+
+## Top 5 pizza sales
+![Top 5 pizza sales](Top_5_pizza_sales.png)
